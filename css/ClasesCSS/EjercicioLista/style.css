@@ -1,0 +1,11 @@
+ul {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+ol{
+    color: blue;
+    font-size: 15px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
