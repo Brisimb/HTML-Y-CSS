@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+p{
+   
+}
+
+main{
+    background-color: red;
+    width: 500px;
+    height: 500px;
+}
