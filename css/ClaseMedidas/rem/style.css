@@ -8,10 +8,11 @@ html{
     font-size: 62.5%;
 }
 
-p{
-    font-size: 1.6rem;
+main{
+    font-size: 100px;
 }
 
 main div{
-    font-size: 5rem;
+    font-size: 1.6rem;
 }
+
